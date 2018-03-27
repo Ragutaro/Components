@@ -1,0 +1,22 @@
+object MyFormUTF8: TMyFormUTF8
+  Left = 331
+  Top = 117
+  Caption = 'MyFormUTF8'
+  ClientHeight = 196
+  ClientWidth = 285
+  Color = clBtnFace
+  Font.Charset = ANSI_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = #12513#12452#12522#12458
+  Font.Style = []
+  KeyPreview = True
+  OldCreateOrder = False
+  Position = poDesigned
+  StyleElements = []
+  OnClose = FormClose
+  OnCreate = FormCreate
+  OnKeyPress = FormKeyPress
+  PixelsPerInch = 96
+  TextHeight = 18
+end
