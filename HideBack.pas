@@ -35,6 +35,9 @@ procedure Register;
 
 implementation
 
+uses
+dp;
+
 procedure Register;
 begin
   RegisterComponents('HaS', [THideBack]);
@@ -70,5 +73,6 @@ begin
     LineTo(Self.Width, Self.Height-1);
   end;
 end;
+
 
 end.
